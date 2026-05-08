@@ -23,7 +23,7 @@ I enjoy translating design ideas into responsive, usable applications and contin
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Bootstrap, Tailwind Css, Shadcn
+- **Frontend:** JavaScript (ES6+), TypeScript, React, HTML5, CSS3, Bootstrap, Tailwind Css, Shadcn, TanStack Query
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB, SQL
 - **APIs & Tools:** REST APIs, Axios
@@ -48,7 +48,7 @@ I enjoy translating design ideas into responsive, usable applications and contin
 ---
 
 ## 🌐 Portfolio
-🔗 **https:[https://boishakhi.netlify.app/]**
+🔗 **[https://boishakhi.netlify.app/]**
 
 ---
 
