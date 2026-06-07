@@ -33,8 +33,7 @@ I enjoy translating design ideas into responsive, usable applications and contin
 ---
 
 ## 🎯 Experience & Interests
-- Currently developing a **Gamified Learning Management System (LMS)** with role-based access (Admin, Teacher, Student)
-- Features such as assignments, attendance, and gamification will be implemented(points & leaderboard)
+- Currently learning AI assisted development, Next.js, TypeScript
 - Strong interest in **software development** and **user experience**
 - Academic background in **Interaction Design & Human-Computer Interaction (HCI)**
 
@@ -48,7 +47,7 @@ I enjoy translating design ideas into responsive, usable applications and contin
 ---
 
 ## 🌐 Portfolio
-🔗 **[https://boishakhi.netlify.app/]**
+🔗 **https://boishakhi.netlify.app/**
 
 ---
 
