@@ -112,5 +112,5 @@ I'm always interested in discussing new projects, creative ideas, or opportuniti
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boishakhi11&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Boishakhi11&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=boishakhi-mukta&cache_seconds=86400)
 
