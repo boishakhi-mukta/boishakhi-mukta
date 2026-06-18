@@ -23,13 +23,23 @@ I enjoy translating design ideas into responsive, usable applications and contin
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** JavaScript (ES6+), TypeScript, React, HTML5, CSS3, Bootstrap, Tailwind Css, Shadcn, TanStack Query
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, SQL
-- **APIs & Tools:** REST APIs, Axios
-- **Version Control:** Git, GitHub
-- **UX & QA:** Usability principles, basic testing practices, mannual testing
 
+### Frontend
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+### Backend
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+
+### Database
+<img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+### Tools
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 ---
 
 ## 🎯 Experience & Interests
