@@ -10,10 +10,11 @@ Software Developer | React • JavaScript • TypeScript • Next.js • Node.js
 
 I'm a Software Developer with a Computer Science background and a strong interest in building clean, accessible, and user friendly web interfaces. I enjoy translating design ideas into responsive, usable applications and continuously improving my skills through hands on projects.
 
-    </td>
-    <td width="35%" align="right">
-      <img src="https://img.icons8.com/color/96/000000/web-design.png" alt="Web Developer" />
-    </td>
+   <td width="35%" align="right">
+  <img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif"
+       width="260"
+       alt="Frontend Developer Animation" />
+</td>
   </tr>
 </table>
 
