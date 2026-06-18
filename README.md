@@ -12,7 +12,7 @@ I'm a Software Developer with a Computer Science background and a strong interes
 
     </td>
     <td width="35%" align="right">
-      <img src="https://media.giphy.com/media/SvckNeedFS0Xl0G4qN/giphy.gif" width="260" alt="Frontend Developer Animation" />
+      [<img src="https://media.giphy.com/media/SvckNeedFS0Xl0G4qN/giphy.gif" width="260" alt="Frontend Developer Animation" />](https://user-images.githubusercontent.com/29748439/177382064-a900d5cd-b2d3-42a3-a3a6-8506b4bbd380.gif)
     </td>
   </tr>
 </table>
