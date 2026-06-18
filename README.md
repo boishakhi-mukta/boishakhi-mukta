@@ -2,7 +2,8 @@
   <tr>
     <td width="65%" valign="top">
 
-## Hi there 👋 **I am Boishakhi Ghosh Mukta**  
+## Hi there 👋
+**I am Boishakhi Ghosh Mukta**  
 Software Developer | React • JavaScript • TypeScript • Next.js • Node.js • Express.js • Tailwind CSS | Software Testing
 
 📍 Norway | Open to Frontend Developer, FullStack Developer & Software Engineer roles 🇳🇴
@@ -11,7 +12,7 @@ I'm a Software Developer with a Computer Science background and a strong interes
 
     </td>
     <td width="35%" align="right">
-      <img src="https://cdnl.iconscout.com/lottie/premium/thumb/female-web-developer-animation-gif-download-3817229.gif" width="260" alt="Frontend Developer Animation" />
+      <img src="https://media.giphy.com/media/SvckNeedFS0Xl0G4qN/giphy.gif" width="260" alt="Frontend Developer Animation" />
     </td>
   </tr>
 </table>
@@ -98,7 +99,7 @@ Explore my recent projects showcasing modern web development practices, responsi
 
 - 📧 **Email:** [bgmukta11@gmail.com](mailto:bgmukta11@gmail.com)
 - 💼 **LinkedIn:** [Boishakhi Ghosh Mukta](https://www.linkedin.com/in/boishakhimukta/)
-- 🔗 **GitHub:** [@boishakhi](https://github.com/)
+- 🔗 **GitHub:** [@boishakhi-mukta](https://github.com/boishakhi-mukta)
 
 ---
 
@@ -106,11 +107,16 @@ Explore my recent projects showcasing modern web development practices, responsi
 
 I'm always interested in discussing new projects, creative ideas, or opportunities to work together. Feel free to reach out! 🚀
 
+---
+
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boishakhi11&show_icons=true&hide_border=true)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=boishakhi-mukta&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Boishakhi11&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=boishakhi-mukta&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=boishakhi-mukta&cache_seconds=86400)
+[![GitHub Streak](https://streak-stats.demolab.com?user=boishakhi-mukta&theme=dark&hide_border=true)](https://github.com/boishakhi-mukta)
 
+</div>
