@@ -2,9 +2,8 @@
   <tr>
     <td width="65%" valign="top">
 
-## Hi there 👋
-**I am Boishakhi Ghosh Mukta**  
-Software Developer | React • JavaScript • TypeScript • Next.js • Node.js • Express.js • Tailwind CSS | Software Testing
+## Hi there 👋 I am Boishakhi Ghosh Mukta
+Software Developer | Researcher | React • JavaScript • TypeScript • Next.js • Node.js • Express.js • Tailwind CSS | Software Testing
 
 📍 Norway | Open to Frontend Developer, FullStack Developer & Software Engineer roles 🇳🇴
 
